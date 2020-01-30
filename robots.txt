@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ighuumudo.carboncopi.es/sitemap.xml
